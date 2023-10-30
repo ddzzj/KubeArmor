@@ -27,7 +27,7 @@ require (
 	github.com/cilium/ebpf v0.10.0
 	github.com/containerd/containerd v1.6.8
 	github.com/containerd/typeurl v1.0.2
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/google/uuid v1.3.0
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-00010101000000-000000000000
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorController v0.0.0-20230102134750-3c9ddc923c3f
